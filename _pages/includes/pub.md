@@ -3,7 +3,7 @@
 ## Face anti-spoofing
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/ASOC2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2024</div><img src='images/ASOC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient face anti-spoofing via head-aware transformer based knowledge distillation with 5 MB model parameters](https://doi.org/10.1016/j.asoc.2024.112237) \\
