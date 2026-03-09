@@ -8,7 +8,7 @@
 
 [Efficient face anti-spoofing via head-aware transformer based knowledge distillation with 5 MB model parameters](https://doi.org/10.1016/j.asoc.2024.112237) \\
 Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, \\
-**Daoxiang Zhou***. \\
+**Daoxiang Zhou**. \\
 *Applied Soft Computing*, 2024.
 
 - Feature- and logits-level distillation are combined to transfer the rich knowledge of teacher to student.
