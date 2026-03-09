@@ -13,4 +13,6 @@ redirect_from:
 
 {% include_relative includes/news.md %}
 
+{% include_relative includes/CallMember.md %}
+
 {% include_relative includes/pub.md %}
