@@ -15,5 +15,5 @@ Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, \\
 </div>
 </div>
 
-- ''EAAI 2026'' [Multi-scale orthogonal Gabor filters based ConvNets for illumination robust single sample face recognition](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031744).  **Daoxiang Zhou***, Feixue Shao, Jun Zhang, Yunfei Zhang, Shu Feng.
-- ''EAAI 2024'' [ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation]([https://www.sciencedirect.com/science/article/abs/pii/S0952197625031744](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012909).  Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, Xuetao Ma, Yongfei Wu, Shu Feng, **Daoxiang Zhou***.
+- ``EAAI 2026`` [Multi-scale orthogonal Gabor filters based ConvNets for illumination robust single sample face recognition](https://www.sciencedirect.com/science/article/abs/pii/S0952197625031744).  **Daoxiang Zhou***, Feixue Shao, Jun Zhang, Yunfei Zhang, Shu Feng.
+- ``EAAI 2024`` [ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation](https://www.sciencedirect.com/science/article/abs/pii/S0952197624012909).  Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, Xuetao Ma, Yongfei Wu, Shu Feng, **Daoxiang Zhou***.
