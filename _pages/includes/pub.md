@@ -13,7 +13,7 @@ Dongxi Li, **Daoxiang Zhou***. \\
 [Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing]() \\
 _ICASSP_.
 
-- A novel online distillation framework tailored for FAS, enabling bidirectional feature transfer and collaborative train￾ing between teacher and student.
+- We propose a novel online distillation framework tailored for FAS, enabling bidirectional feature transfer and collaborative training between teacher and student.
 - We design a cascaded local-global feature extractor that enhances the representation capacity of teacher and guides the student to learn both texture details and global information of face.
 - We introduce a feature mutual calibration distillation loss to deal with intermediate feature mismatches between heterogeneous teacher and student architecture.
 </div>
@@ -58,7 +58,21 @@ _Engineering Applications of Artificial Intelligence_.
 - ``PRCV 2023`` Jun Zhang, Yunfei Zhang, Feixue Shao, Xuetao Ma, **Daoxiang Zhou***. [KDFAS: Multi-stage Knowledge Distillation Vision Transformer for Face Anti-spoofing](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_13). _In 6th Chinese Conference on Pattern Recognition and Computer Vision_.
 - ``PRCV 2022`` Xuetao Ma, Jun Zhang, Yunfei Zhang, **Daoxiang Zhou***. [Exploring Masked Image Modeling for Face Anti-spoofing](https://link.springer.com/chapter/10.1007/978-3-031-18907-4_62). _In 5th Chinese Conference on Pattern Recognition and Computer Vision_. 
 
- 
+
+
+## Co-authored English Papers
+- ``GRSL 2023``  Zhigang Yang, **Daoxiang Zhou**, Ying Yang, Jiapeng Zhang, Zehua Chen*. [Road extraction from satellite imagery by road context and full-stage feature](). _IEEE Geoscience and Remote Sensing Letters_.
+- ``ESWA 2024`` Jianan Zhang, Yongfei Wu*, Fang Hao, Xueyu Liu, Ming Li, **Daoxiang Zhou**, Wen Zheng. [Double similarities weighted multi-instance learning kernel and its application](). _Expert Systems with Applications_.
+- ``TIV 2024`` Xianzhi Ma, Xiaokai Zhang, Daoxiang Zhou, Zehua Chen*. [StripUnet: A Method for Dense Road Extraction from Remote Sensing Images](). _IEEE Transactions on Intelligent Vehicles_.
+- ``Measurement 2022`` Yexin Lai, Xueyu Liu, Yongfei Wu*, **Daoxiang Zhou**, Chen Wang, Dan Niu, Weixia Han, Xiaoshuang Zhou, Jiayan Chen, Wen Zheng. [Interstitial fibrosis and tubular atrophy measurement via hierarchical extractions of kidney and atrophy regions with deep learning method](). _Measurement_.
+- ``GRSL 2024``  Qingliang Meng, **Daoxiang Zhou**, Xiaokai Zhang, Zhigang Yang, Zehua Chen*. [Road Extraction From Remote Sensing Images via Channel Attention and Multilayer Axial Transformer](). _IEEE Geoscience and Remote Sensing Letters_.
+- ``GRSL 2022``  Zhigang Yang, **Daoxiang Zhou**, Ying Yang, Jiapeng Zhang, Zehua Chen*. [TransRoadNet: A novel road extraction method for remote sensing images via combining high-level semantic feature and context](). _IEEE Geoscience and Remote Sensing Letters_.
+- ``IJCIM 2021``  Xinyu Li, Ming Li*, Yongfei Wu, **Daoxiang Zhou**, Tianyu Liu, Fang Hao, Junhong Yue, Qiyue Ma. [Accurate screw detection method based on faster R-CNN and rotation edge similarity for automatic screw disassembly](). _International Journal of Computer Integrated Manufacturing_.
+- ``JARS 2022``  Jiehuang Ren, Liye Jia, Junhong Yue*, Xueyu Liu, Lixin Sun, Yongfei Wu, **Daoxiang Zhou**. [Unsupervised domain adaptation using modified cycle generative adversarial network for aerial image classification](). _Journal of Applied Remote Sensing_.
+- ``AIC 2023``  Xueyu Liu, Ming Li*, Yongfei Wu, Yilin Chen, Fang Hao, **Daoxiang Zhou**, Chen Wang, Chuanfeng Ma, Guangze Shi, Xiaoshuang Zhou. [An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method](). _AI Communications_.
+
+
+
 ## 中文论文
 - ``EI检索 2020`` 刘天宇, **周稻祥***, 李明, 李心宇. [面向螺丝锁附序列的多分辨率融合卷积神经网络研究](https://kns.cnki.net/kcms2/article/abstract?v=JITlTmCwHjKhOnDji3x0TDfDEmzfArKPhu3_p9_ercrsqen5HCiYx9PGgQnBfIwK4HTvH3O3sWQXs4_656c0Qp2Yen0Xk--WZxw2opqsGaYxJoBMy89wpEEpLICoaI4i-VPd5thyqT_JeTZ0ql_mU_xIQCTVvKAkGFwHXsmnZ2lnbYax4Fco9A==&uniplatform=NZKPT&language=CHS). _西安交通大学学报_.
 - ``北大核心 2023`` **周稻祥***, 冯姝. [联合Gabor滤波器和核池化特征学习的单样本人脸识别与验证](https://kns.cnki.net/kcms2/article/abstract?v=JITlTmCwHjIY97fxzjMokHQh-Zxpxf91cgLI8ZsLzuzZzuM62nd9ayf-xuGQkhpLLwnWZ1YkZzvsbW9SRdkCHGuwHPBGwzvAWRpHEeuP8BhKBQet0xE_mQr0XmRnmF5g0ZvhFUmv5V1jxtpGn1KWRlck38vSfPVPbosH7DEuT-lmSG5dECH5Bw==&uniplatform=NZKPT&language=CHS). _太原理工大学学报_.
