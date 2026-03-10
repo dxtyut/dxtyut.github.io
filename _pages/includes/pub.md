@@ -5,7 +5,7 @@ Notation * indicates Corresponding Author.
 
 ## First Author and Corresponding Author English Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Jun Zhang,  Jia Shen, Hui Wang, Jiahua Liu, Yixing Gao, Shu Feng, \\
