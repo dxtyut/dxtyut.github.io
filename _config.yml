@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Daoxiang ZHOU (周稻祥)"
 description              : "Focusing on Face anti-Spoofing, Image Segmentation and Pattern Recognition."
-repository               : "dxtyut/dxtyut.github.io"
+repository               : "DaoxiangZhou/DaoxiangZhou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dxtyut"
+  github           : "DaoxiangZhou"
   google_plus      :
   keybase          :
   instagram        :
