@@ -20,3 +20,5 @@ redirect_from:
 {% include_relative includes/pub.md %}
 
 {% include_relative includes/CertificationsAwards.md %}
+
+{% include_relative includes/Alumni.md %}
