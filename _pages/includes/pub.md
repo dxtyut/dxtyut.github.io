@@ -1,7 +1,11 @@
 
 # 📝 Publications 
 
-'''Notation * indicates Corresponding Author.'''
+<div style="margin-bottom: 10px;">
+<span style="background-color: #f6f8fa; padding: 5px; border-radius: 5px; font-size: 0.9em;">
+Notation * indicates Corresponding Author.
+</span>
+</div>
 
 ## First Author and Corresponding Author English Papers
 
