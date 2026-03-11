@@ -13,7 +13,7 @@ Notation * indicates Corresponding Author.
 <div class='paper-box-text' markdown="1">
 
 Jun Zhang,  Jia Shen, Hui Wang, Jiahua Liu, Yixing Gao, Shu Feng, Dongxi Li, **Daoxiang Zhou***. \\
-[Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing]()  _ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>.
+[Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing]().  _ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>.
 
 - We propose a novel online distillation framework, enabling bidirectional feature transfer and collaborative training between teacher and student.
 - We design a cascaded local-global feature extractor that enhances the representation capacity of teacher and guides the student to learn both texture details and global information of face image.
@@ -37,7 +37,7 @@ Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, Xuetao Ma, Yongfei Wu, Shu Feng
 <div class='paper-box-text' markdown="1">
 
 Jun Zhang,  Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, **Daoxiang Zhou***. \\
-[Efficient face anti-spoofing via head-aware transformer based knowledge distillation with 5 MB model parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624010111)  _Applied Soft Computing_ <span style="color:red; font-weight:bold;">(SCI, Q2-TOP)</span>.
+[Efficient face anti-spoofing via head-aware transformer based knowledge distillation with 5 MB model parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624010111).  _Applied Soft Computing_ <span style="color:red; font-weight:bold;">(SCI, Q2-TOP)</span>.
 
 - Feature- and logits-level distillation are combined to transfer the rich knowledge of teacher to student.
 - A head-aware strategy is proposed to deal with the dimension mismatching issue of middle encoder layers between teacher and student networks.
