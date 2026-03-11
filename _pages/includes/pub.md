@@ -17,7 +17,7 @@ Dongxi Li, **Daoxiang Zhou***. \\
 [Heterogeneous Feature Mutual-Calibration Assisted Online Distillation for Efficient Face Anti-Spoofing]() \\
 _ICASSP_ <span style="color:red; font-weight:bold;">(CCF-B)</span>.
 
-- We propose a novel online distillation framework tailored for FAS, enabling bidirectional feature transfer and collaborative training between teacher and student.
+- We propose a novel online distillation framework for FAS, enabling bidirectional feature transfer and collaborative training between teacher and student.
 - We design a cascaded local-global feature extractor that enhances the representation capacity of teacher and guides the student to learn both texture details and global information of face image.
 - We introduce a feature mutual calibration distillation loss to deal with intermediate feature mismatches between heterogeneous teacher and student architecture.
 </div>
