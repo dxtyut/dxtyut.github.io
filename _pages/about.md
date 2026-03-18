@@ -23,7 +23,10 @@ redirect_from:
 
 {% include_relative includes/Alumni.md %}
 
-<center style="height: 260px;width: 260px">
+# 📊 Pageviews Counter
+
+<center>
+  <style="height: 260px;width: 260px">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HzsflSXXxnkaT8Vlx8AJG-dtrXsoCx80lvS6PBa6tTI"></script>
 </center>
 
