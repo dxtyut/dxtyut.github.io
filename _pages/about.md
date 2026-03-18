@@ -22,3 +22,7 @@ redirect_from:
 {% include_relative includes/CertificationsAwards.md %}
 
 {% include_relative includes/Alumni.md %}
+
+<center>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HzsflSXXxnkaT8Vlx8AJG-dtrXsoCx80lvS6PBa6tTI&cl=ffffff&w=a"></script>
+</center>center>
