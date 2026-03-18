@@ -23,8 +23,8 @@ redirect_from:
 
 {% include_relative includes/Alumni.md %}
 
-<center>
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=HzsflSXXxnkaT8Vlx8AJG-dtrXsoCx80lvS6PBa6tTI&cmo=3acc3a&co=2d78ad&cmn=ff5353&ct=ffffff'></script>
+<center style="height: 260px;width: 260px">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HzsflSXXxnkaT8Vlx8AJG-dtrXsoCx80lvS6PBa6tTI"></script>
 </center>
 
 
