@@ -24,10 +24,8 @@ redirect_from:
 {% include_relative includes/Alumni.md %}
 
 # 📊 Pageviews Counter
-<center>
-  <div style="height: 260px;width: 260px">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HzsflSXXxnkaT8Vlx8AJG-dtrXsoCx80lvS6PBa6tTI"></script>
-  </div>
-</center>
+<div style="height: 260px;width: 260px;margin-left: 40px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HzsflSXXxnkaT8Vlx8AJG-dtrXsoCx80lvS6PBa6tTI"></script>
+</div>
 
 
